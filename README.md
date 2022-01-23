@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenM88888888 (BenM8 was taken...), a first year Computer Science Student.
+- 👋 Hi, I’m @BenTaylor25, a first year Computer Science Student.
 - 👀 I’m interested in Software and Game Development.
 - 🌱 I’m currently learning Java, for my course, and relearning C++.
 
