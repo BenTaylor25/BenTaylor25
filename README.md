@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BenTaylor25, a first year Computer Science Student.
 - 👀 I’m interested in Software and Game Development.
 - 💪 I'm experienced with Python, and a bespoke language called Fuze.
-- 🌱 I’m currently learning Java, for my course, and relearning C++.
+- 🌱 I’m currently learning Java for my course, C# for an extra-curricular scheme, and relearning C++.
+- ⏰ I wish to tackle at least the basics of JS/TS, and C later this year, and Rust and Go in 2023.
 - 🤝 LinkedIn: https://www.linkedin.com/in/ben-taylor-742106204/
 
 <!---
