@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenTaylor25, a first year Computer Science Student.
-- 👀 I’m interested in Software and Game Development.
+- 👀 I’m interested in Software, Web, and Game Development.
 - 💪 I'm experienced with Python, and a bespoke language called Fuze4NS.
 - 👍 I have some exprience with C++.
 - 🌱 I’m currently learning Java for my course and C# for an extra-curricular scheme.
