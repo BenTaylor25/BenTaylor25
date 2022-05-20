@@ -1,15 +1,9 @@
-- 👋 Hi, I’m @BenTaylor25, a first year Computer Science Student.
+- 👋 Hi, I’m @BenTaylor25, a Computer Science Student.
 - 👀 I’m interested in Software, Web, and Game Development.
-- 💪 I'm experienced with Python, and a bespoke language called Fuze4NS.
-- 👍 I have some exprience with C++.
-- 🌱 I’m currently learning Java for my course and C# for an extra-curricular scheme.
-- ⏰ I wish to tackle at least the basics of JS/TS, C later this year, and Rust and Go in 2023.
+- 💪 I'm experienced with Python, and a language called Fuze4NS.
+- 👍 I have some exprience with C++ and Java and C#.
+- 🌱 I’m currently learning, HTML, CSS, JavaScript, and Typescript, C.
+- ⏰ I aim to learn VueJS later this year, and Rust, Go, Angular, and more in 2023.
 - 🤝 LinkedIn: https://www.linkedin.com/in/ben-taylor-oxford/
 - 📽️ YouTube: https://www.youtube.com/channel/UCL8O61iBtOvLtsEMXS-1aJQ
-- 📁 GitHub Portfolio: https://github.com/stars/BenTaylor25/lists/portfolio
 - 🌐 Portfolio Website: https://bentaylor25.github.io/WebPortfolio/src/html/home.html
-
-<!---
-BenM88888888/BenM88888888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
