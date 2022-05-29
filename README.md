@@ -6,4 +6,4 @@
 - ⏰ I aim to learn VueJS later this year, and Rust, Go, Angular, and more in 2023.
 - 🤝 LinkedIn: https://www.linkedin.com/in/ben-taylor-oxford/
 - 📽️ YouTube: https://www.youtube.com/channel/UCL8O61iBtOvLtsEMXS-1aJQ
-- 🌐 Portfolio Website: https://bentaylor25.github.io/WebPortfolio/src/html/home.html
+- 🌐 Portfolio Website: https://bentaylor25.github.io/WebPortfolio/index.html
