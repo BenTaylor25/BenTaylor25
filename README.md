@@ -8,4 +8,5 @@
 - 📽️ YouTube: https://www.youtube.com/channel/UCL8O61iBtOvLtsEMXS-1aJQ
 - 🌐 Portfolio Website: https://bentaylor25.github.io/WebPortfolio/index.html
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bentaylor25&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bentaylor25&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentaylor25&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
