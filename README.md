@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenTaylor25, a Computer Science Student.
 - 👀 I’m interested in Software, Web, and Game Development.
 - 💪 I'm very experienced with Python, and a language called Fuze4NS.
-- 👍 I have a fair amount of exprience with HTML, CSS, JavaSCript, C++, Java and C#.
+- 👍 I have a fair amount of exprience with HTML, CSS, JavaScript, C++, Java and C#.
 - 🌱 I’m currently learning Typescript, C and VueJS.
 - ⏰ I aim to learn Rust, Go, Angular, and more to a decent level by the end of 2023.
 - 🤝 LinkedIn: https://www.linkedin.com/in/ben-taylor-oxford/
