@@ -14,6 +14,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bentaylor25&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!-- This doesn't show private repos, so it 90% C++ for now which is a bit boring
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentaylor25&langs_count=10&layout=compact&theme=dark&count_private=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
--->
+
