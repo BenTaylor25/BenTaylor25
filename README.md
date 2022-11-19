@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenTaylor25, a Computer Science Student.
+- 👋 Hi, I’m @BenTaylor25, a Computer Science Student in Oxford.
 - 👀 I’m interested in Software-, Web-, and Game Development.
 - 💪 Very experienced with Python, and a language called Fuze4 Nintendo Switch.
 - 👍 Fairly experienced with HTML, CSS, JavaScript, C++, Java, and C#.
