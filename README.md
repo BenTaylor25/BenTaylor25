@@ -4,7 +4,7 @@
 - 👍 Fairly experienced with HTML, CSS, JavaScript, C++, Java, and C#.
 - 🌱 Learning Rust, C, Typescript, VueJS, and Tauri.
 - ⏰ Aim to learn Go, Angular, and more to a decent level by the end of 2023.
-- 🤝 LinkedIn: <a href="https://linkedin.com/in/ben-taylor-oxford/">linkedin.com/in/ben-taylor-oxford/</a>.
+- 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.
 - 📽️ YouTube: <a href="https://youtube.com/@bentaylor25">youtube.com/channel/@bentaylor25</a>.
 - 🌐 Portfolio Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.
 - 🌍 Community Contributions: <a href="https://github.com/stars/BenTaylor25/lists/community-contributions">github.com/stars/BenTaylor25/lists/community-contributions</a>.
