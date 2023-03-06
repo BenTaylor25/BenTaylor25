@@ -1,5 +1,5 @@
 ## BenTaylor25
-- 👋 Hi, I am Computer Science Student in Oxford.
+- 👋 Hi, I am a Computer Science Student in Oxford.
 - 👀 I’m interested in Software-, Web-, Mobile- and Game Development.
 - 💪 Very experienced with Python, Java, and a language called Fuze4 Nintendo Switch.
 - 👍 Fairly experienced with HTML, CSS, JavaScript, TypeScript, C++, C#, and React.
