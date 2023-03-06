@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @BenTaylor25, a Computer Science Student in Oxford.
-- 👀 I’m interested in Software-, Web-, and Game Development.
-- 💪 Very experienced with Python, and a language called Fuze4 Nintendo Switch.
-- 👍 Fairly experienced with HTML, CSS, JavaScript, C++, Java, and C#.
-- 🌱 Learning Rust, C, Typescript, VueJS, and Tauri.
-- ⏰ Aim to learn Go, Angular, and more to a decent level by the end of 2023.
+## BenTaylor25
+- 👋 Hi, I am Computer Science Student in Oxford.
+- 👀 I’m interested in Software-, Web-, Mobile- and Game Development.
+- 💪 Very experienced with Python, Java, and a language called Fuze4 Nintendo Switch.
+- 👍 Fairly experienced with HTML, CSS, JavaScript, TypeScript, C++, C#, and React.
+- 🌱 Learning Rust, Go, Dart, Flutter, C, and Vue.js.
+- ⏰ Aim to learn Kotlin, Tauri, and Angular in the near future.
+- 💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
 - 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.
 - 📽️ YouTube: <a href="https://youtube.com/@bentaylor25">youtube.com/channel/@bentaylor25</a>.
 - 🌐 Portfolio Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.
