@@ -2,9 +2,9 @@
 - 👋 Hi, I am a Computer Science Student in Oxford.
 - 👀 I’m interested in Software-, Web-, Mobile- and Game Development.
 - 💪 Very experienced with Python, Java, and a language called Fuze4 Nintendo Switch.
-- 👍 Fairly experienced with HTML, CSS, JavaScript, TypeScript, C++, C#, and React.
+- 👍 Fairly experienced with HTML, CSS, SCSS, JavaScript, TypeScript, C++, C#, and React.
 - 🌱 Learning Rust, Go, Dart, Flutter, C, and Vue.js.
-- ⏰ Aim to learn Kotlin, Tauri, and Angular in the near future.
+- ⏰ Aim to learn Tauri, Angular, and Kotlin in the near future.
 - 💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
 - 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.
 - 📽️ YouTube: <a href="https://youtube.com/@bentaylor25">youtube.com/channel/@bentaylor25</a>.
