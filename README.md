@@ -4,8 +4,8 @@
 👨‍💻 Currently on Software Engineering internship with Scuderia AlphaTauri F1.
 
 💪 Very experienced with Python, TypeScript, C#, and Java.  
-👍 Fairly experienced with C++, React, Vue.js.  
-🤏 Some experience with Rust, Go, and C.  
+👍 Fairly experienced with C++, React, and Vue.js.  
+🤏 Some experience with Rust, Go, C, and Dart.  
 🌱 Currently learning C#, and WPF.  
 ⏰ Looking into Angular, Rust, Tauri, and Postres soon.  
 ✨ Excited about Angular, C#, Rust, Go, and Kotlin.
