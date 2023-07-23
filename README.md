@@ -1,15 +1,21 @@
 ## BenTaylor25
-- 👋 Hi, I am a Computer Science Student in Oxford.
-- 👀 I’m interested in Software-, Web-, Mobile- and Game Development.
-- 💪 Very experienced with Python, Java, and a language called Fuze4 Nintendo Switch.
-- 👍 Fairly experienced with HTML, CSS, SCSS, JavaScript, TypeScript, C++, C#, and React.
-- 🌱 Learning Rust, Go, Dart, Flutter, C, and Vue.js.
-- ⏰ Aim to learn Tauri, Angular, and Kotlin in the near future.
-- 💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
-- 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.
-- 📽️ YouTube: <a href="https://youtube.com/@bentaylor25">youtube.com/channel/@bentaylor25</a>.
-- 🌐 Portfolio Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.
-- 🌍 Community Contributions: <a href="https://github.com/stars/BenTaylor25/lists/community-contributions">github.com/stars/BenTaylor25/lists/community-contributions</a>.
+👋 Hi, I am a Computer Science Student in Oxford.  
+👀 I’m interested in Web-, Desktop-, Mobile- and Game Development.  
+👨‍💻 Currently on Software Engineering internship with Scuderia AlphaTauri F1.
+
+💪 Very experienced with Python, TypeScript, C#, and Java.  
+👍 Fairly experienced with C++, React, Vue.js.  
+🤏 Some experience with Rust, Go, and C.  
+🌱 Currently learning C#, and WPF.  
+⏰ Looking into Angular, Rust, Tauri, and Postres soon.  
+✨ Excited about Angular, C#, Rust, Go, and Kotlin.
+
+⌨ My prefered IDE is VSCode with the Vim extension.  
+💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
+
+🌐 Personal Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.  
+🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.  
+📽️ YouTube: <a href="https://youtube.com/@bentaylor25">youtube.com/channel/@bentaylor25</a>.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenTaylor25&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
