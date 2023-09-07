@@ -3,12 +3,12 @@
 👀 I’m interested in Web-, Desktop-, Mobile- and Game Development.  
 👨‍💻 Currently on Software Engineering internship with Scuderia AlphaTauri F1.
 
-💪 Very experienced with Python, TypeScript, C#, and Java.  
+💪 Very experienced with Python, C#, Java, and TypeScript.  
 👍 Fairly experienced with C++, React, and Vue.js.  
-🤏 Some experience with Rust, Go, C, and Dart.  
-🌱 Currently learning C#, and WPF.  
+🤏 Somewhat experienced with Rust, Go, C, and Dart.  
+🌱 Currently learning WPF.  
 ⏰ Looking into Angular, Rust, Tauri, and Postres soon.  
-✨ Excited about Angular, C#, Rust, Go, and Kotlin.
+✨ Excited about Angular, Rust, and C#.
 
 ⌨ My prefered IDE is VSCode with the Vim extension.  
 💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
