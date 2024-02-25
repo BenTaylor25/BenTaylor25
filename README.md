@@ -1,13 +1,13 @@
 ## BenTaylor25
 👋 Hi, I am a Computer Science Student in Oxford.  
 👀 I’m interested in Web-, Desktop-, Mobile- and Game Development.  
-👨‍💻 Currently on Software Engineering internship with Scuderia AlphaTauri F1.
+👨‍💻 Currently on Software Engineering internship with Visa Cash App RB Formula 1 Team.
 
-💪 Very experienced with Python, C#, Java, and TypeScript.  
-👍 Fairly experienced with C++, React, and Vue.js.  
-🤏 Somewhat experienced with Rust, Go, C, and Dart.  
-🌱 Currently learning WPF.  
-⏰ Looking into Angular, Rust, Tauri, and Postres soon.  
+💪 Very experienced with Python, C#, TypeScript, and Java.  
+👍 Fairly experienced with React, and WPF.  
+🤏 Somewhat experienced with Angular, Rust, Go, C, and Dart.  
+🌱 Currently learning Angular.  
+⏰ Focusing into Rust, and Postres soon.  
 ✨ Excited about Angular, Rust, and C#.
 
 ⌨ My prefered IDE is VSCode with the Vim extension.  
@@ -22,5 +22,3 @@
 
 <!-- because most of my repos are private, this is really inaccurate -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenTaylor25&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
