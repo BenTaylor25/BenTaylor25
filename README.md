@@ -7,7 +7,7 @@
 👍 Fairly experienced with React, and WPF.  
 🤏 Somewhat experienced with Angular, Rust, Go, C, and Dart.  
 🌱 Currently learning Angular.  
-⏰ Focusing into Rust, and Postres soon.  
+⏰ Focusing on Rust, and Postres soon.  
 ✨ Excited about Angular, Rust, and C#.
 
 ⌨ My prefered IDE is VSCode with the Vim extension.  
