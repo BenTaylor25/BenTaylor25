@@ -1,17 +1,16 @@
 ## BenTaylor25
-👋 Hi, I am a Computer Science Student in Oxford.  
+👋 Hi, I am a Software Engineer and Computer Science Student in Oxford.  
 👀 I’m interested in Web-, Desktop-, Mobile- and Game Development.  
-👨‍💻 Currently on Software Engineering internship with Visa Cash App RB Formula 1 Team.
+👨‍💻 Currently in my final year of Computer Science at Oxford Brookes.  
+🏎 Former Aero Software Engineer Intern at Visa Cash App RB Formula 1.
 
-💪 Very experienced with Python, C#, TypeScript, and Java.  
-👍 Fairly experienced with React, and WPF.  
-🤏 Somewhat experienced with Angular, Rust, Go, C, and Dart.  
-🌱 Currently learning Angular.  
-⏰ Focusing on Rust, and Postres soon.  
-✨ Excited about Angular, Rust, and C#.
+💪 Experienced with C#, TypeScript, and Python.  
+👍 Fairly experienced with Java, React, Vue and WPF.  
+🌱 Currently working with C#, Vue, Pinia.  
+✨ Excited about Rust, C#, Vue and Angular.
 
 ⌨ My prefered IDE is VSCode with the Vim extension.  
-💻 I use Windows 10 on my PC and Kubuntu Linux on my Laptop.
+💻 I use Windows 10 on my PC, Kubuntu Linux on one of my Laptops and Windows 11 on the other.
 
 🌐 Personal Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.  
 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.  
