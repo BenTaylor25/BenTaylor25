@@ -1,16 +1,21 @@
 ## BenTaylor25
-👋 Hi, I am a Software Engineer and Computer Science Student in Oxford.  
-👀 I’m interested in Web-, Desktop-, Mobile- and Game Development.  
-👨‍💻 Currently in my final year of Computer Science at Oxford Brookes.  
-🏎 Former Aero Software Engineer Intern at Visa Cash App RB Formula 1.
+👋 Hi, I’m Ben — Head of Software at Oxford Brookes Racing and final-year Computer Science Student at Oxford Brookes.  
+👀 Interested in using Software to solve real world problems, especially in technical domains like Engineering.  
+🏎 Former Aero Software Engineer Intern at AlphaTauri / VCARB Formula 1.  
+⏰ Incoming Graduate Software Engineer at Williams Racing Formula 1.
+
+👥 Learning as I go, managing a team of Software Engineers in OBR.  
+🎓 Dissertation: C#, ASP.NET Core, Vue, Pinia, SQLite.  
+🔧 OBR Development: React, Redux, Python, Flask, MySQL.  
+⚙️ OBR Deployment: Ubuntu Server (+XFCE), NGINX, and Docker Engine.
 
 💪 Experienced with C#, TypeScript, and Python.  
 👍 Fairly experienced with Java, React, Vue and WPF.  
-🌱 Currently working with C#, Vue, Pinia.  
-✨ Excited about Rust, C#, Vue and Angular.
+🌱 Currently learning Pinia, Redux, Flask, MySQL.  
+✨ Excited about Rust.
 
-⌨ My prefered IDE is VSCode with the Vim extension.  
-💻 I use Windows 10 on my PC, Kubuntu Linux on one of my Laptops and Windows 11 on the other.
+⌨ My preferred IDE is VSCode (with Vim extension — I know, controversial).  
+💻 Operating Systems: Windows 10 (main PC), Kubuntu Linux (uni laptop), Windows 11 (formula student laptop).  
 
 🌐 Personal Website: <a href="http://bentaylor25.co.uk">bentaylor25.co.uk</a>.  
 🤝 LinkedIn: <a href="https://linkedin.com/in/bentaylor25/">linkedin.com/in/bentaylor25/</a>.  
